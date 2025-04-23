@@ -4,7 +4,8 @@
 **markrendle/markrendle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💬 Ask me about [.NET](https://dot.net/), C# and [Performance](https://ndclondon.com/workshops/high-performance-net-development/4bd5d221a1f7)
-- 📛 Available to [speak at conferences](https://www.rendlelabs.com/speaking)!
+- 💬 Ask me about [.NET](https://dot.net/), C# and [Performance](https://ndcoslo.com/workshops/high-performance-net-development/96aff011aea4)
+- 📛 Available to [speak at conferences](https://rendle.dev/talks/)!
 - 📫 Contact me on Bluesky: [@rendle.dev](https://bsky.app/profile/rendle.dev)
-- ⚡ Fun fact: Winner of 1999 Jongleurs New Act of the Year
+- 👨‍💼 Or LinkedIn: [rendledotdev](https://www.linkedin.com/in/rendledotdev/)
+- ⚡ Fun fact: Winner of 1999 Jongleurs Times Metro New Act of the Year competition
